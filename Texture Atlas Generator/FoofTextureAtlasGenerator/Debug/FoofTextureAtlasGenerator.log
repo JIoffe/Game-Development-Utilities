@@ -1,0 +1,50 @@
+﻿Build started 4/16/2014 9:31:20 PM.
+     1>Project "C:\Users\Malvina\Documents\Visual Studio 2010\Projects\FoofTextureAtlasGenerator\FoofTextureAtlasGenerator\FoofTextureAtlasGenerator.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\FoofTextureAtlasGenerator.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\malvina\documents\visual studio 2010\projects\fooftextureatlasgenerator\fooftextureatlasgenerator\main.cpp(87): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\malvina\documents\visual studio 2010\projects\fooftextureatlasgenerator\fooftextureatlasgenerator\main.cpp(88): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\malvina\documents\visual studio 2010\projects\fooftextureatlasgenerator\fooftextureatlasgenerator\main.cpp(89): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\malvina\documents\visual studio 2010\projects\fooftextureatlasgenerator\fooftextureatlasgenerator\main.cpp(134): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\malvina\documents\visual studio 2010\projects\fooftextureatlasgenerator\fooftextureatlasgenerator\main.cpp(516): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\malvina\documents\visual studio 2010\projects\fooftextureatlasgenerator\fooftextureatlasgenerator\main.cpp(518): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\malvina\documents\visual studio 2010\projects\fooftextureatlasgenerator\fooftextureatlasgenerator\main.cpp(540): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\malvina\documents\visual studio 2010\projects\fooftextureatlasgenerator\fooftextureatlasgenerator\main.cpp(553): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\malvina\documents\visual studio 2010\projects\fooftextureatlasgenerator\fooftextureatlasgenerator\main.cpp(554): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\malvina\documents\visual studio 2010\projects\fooftextureatlasgenerator\fooftextureatlasgenerator\main.cpp(568): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\malvina\documents\visual studio 2010\projects\fooftextureatlasgenerator\fooftextureatlasgenerator\main.cpp(569): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\malvina\documents\visual studio 2010\projects\fooftextureatlasgenerator\fooftextureatlasgenerator\main.cpp(579): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Malvina\Documents\Visual Studio 2010\Projects\FoofTextureAtlasGenerator\Debug\FoofTextureAtlasGenerator.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\FoofTextureAtlasGenerator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Malvina\Documents\Visual Studio 2010\Projects\FoofTextureAtlasGenerator\Debug\FoofTextureAtlasGenerator.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Malvina\Documents\Visual Studio 2010\Projects\FoofTextureAtlasGenerator\Debug\FoofTextureAtlasGenerator.lib" /MACHINE:X86 Debug\resource.res
+         Debug\Globals.obj
+         Debug\main.obj
+         Debug\TextureTreeNode.obj Gdiplus.lib Comctl32.lib 
+         LINK : C:\Users\Malvina\Documents\Visual Studio 2010\Projects\FoofTextureAtlasGenerator\Debug\FoofTextureAtlasGenerator.exe not found or not built by the last incremental link; performing full link
+         FoofTextureAtlasGenerator.vcxproj -> C:\Users\Malvina\Documents\Visual Studio 2010\Projects\FoofTextureAtlasGenerator\Debug\FoofTextureAtlasGenerator.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Malvina\Documents\Visual Studio 2010\Projects\FoofTextureAtlasGenerator\Debug\FoofTextureAtlasGenerator.exe;#1" /manifest Debug\FoofTextureAtlasGenerator.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\FoofTextureAtlasGenerator.unsuccessfulbuild".
+         Touching "Debug\FoofTextureAtlasGenerator.lastbuildstate".
+     1>Done Building Project "C:\Users\Malvina\Documents\Visual Studio 2010\Projects\FoofTextureAtlasGenerator\FoofTextureAtlasGenerator\FoofTextureAtlasGenerator.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.63
